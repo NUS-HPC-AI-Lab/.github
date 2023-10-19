@@ -1,4 +1,6 @@
-## Hi there 👋
+## NUS HPC-AI Lab
+
+We are the High-Performance Computing for Artificial Intelligence (HPC-AI) Lab at the National University of Singapore (NUS)!
 
 <!--
 
